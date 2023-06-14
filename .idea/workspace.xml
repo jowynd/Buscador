@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f257fef2-304a-4f94-9ef1-4071a67b5561" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/buscador/servicos/Converte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/buscador/GuardaInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Buscador.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Buscador.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/buscador/principal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/buscador/principal/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/buscador/servicos/Api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/buscador/servicos/CepServico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/buscador/servicos/CepServico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/buscador/servicos/CepServico.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/buscador/servicos/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/buscador/servicos/Endereco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

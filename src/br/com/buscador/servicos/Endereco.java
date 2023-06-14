@@ -1,12 +1,35 @@
 package br.com.buscador.servicos;
 
 public class Endereco {
-    String logadouro;
+    String logradouro;
     String bairro;
     String localidade;
+    String uf;
+    String ddd;
+    String cep;
 
-    public String getLogadouro() {
-        return logadouro;
+    public String getLogradouro() {
+        return logradouro;
+    }
+
+    public String getUf() {
+        return uf;
+    }
+
+    @Override
+    public String toString() {
+        return "Endereco{" +
+                "logradouro='" + logradouro +
+                ", bairro='" + bairro + '\'' +
+                ", localidade='" + localidade +
+                ", uf='" + uf +
+                ", ddd='" + ddd +
+                ", cep='" + cep +
+                '}';
+    }
+
+    public String getDdd() {
+        return ddd;
     }
 
     public String getBairro() {
@@ -17,17 +40,7 @@ public class Endereco {
         return localidade;
     }
 
-    @Override
-    public String toString() {
-        return "Endereco" +
-                "logadouro='" + logadouro +
-                ", bairro='" + bairro +
-                ", localidade='" + localidade;
-    }
-
-    public Endereco() {
-        this.logadouro = logadouro;
-        this.bairro = bairro;
-        this.localidade = localidade;
+    public String getCep() {
+        return cep;
     }
 }
