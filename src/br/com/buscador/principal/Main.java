@@ -1,6 +1,6 @@
 package br.com.buscador.principal;
 
-import br.com.buscador.GuardaInfo;
+import br.com.buscador.servicos.GuardaInfo;
 import br.com.buscador.servicos.CepServico;
 import br.com.buscador.servicos.Endereco;
 

@@ -1,4 +1,4 @@
-package br.com.buscador;
+package br.com.buscador.servicos;
 
 import br.com.buscador.servicos.Endereco;
 import com.google.gson.Gson;
